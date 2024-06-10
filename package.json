@@ -7,7 +7,8 @@
     "typescript": "*"
   },
   "scripts": {
-    "build": "webpack",
-    "watch": "webpack -w"
+    "dev":" vite",
+    "build": "vite build",
+    "serve": "vite preview"
   }
 }
