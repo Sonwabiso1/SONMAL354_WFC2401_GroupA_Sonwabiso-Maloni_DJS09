@@ -1,5 +1,5 @@
 import { LoyaltyUser } from './enums'
-import { Price, Country } from './types'
+import { Price, Country } from './types.ts'
 
 export interface Review {
     name: string; 
